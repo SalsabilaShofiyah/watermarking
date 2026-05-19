@@ -24,9 +24,9 @@ Bekerja dengan menyisipkan koefisien frekuensi menengah (mid-band) pada blok DCT
 
 ---
 
-## Teknologi yang Digunakan
+## Tools yang Digunakan
 
-| Library | Kegunaan |
+| Tools | Kegunaan |
 |---------|----------|
 | NumPy | Operasi array dan perhitungan matematis |
 | Pillow | Membaca dan menyimpan gambar, codec JPEG |
