@@ -1,2 +1,0 @@
-# watermarking
-Tugas Sistem Multimedia
