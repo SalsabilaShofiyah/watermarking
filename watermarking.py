@@ -1,10 +1,3 @@
-"""
-Digital Image Watermarking - Tugas Multimedia Systems
-Dua metode: LSB (domain spasial) dan DCT Mid-Band (domain frekuensi).
-Evaluasi ketahanan terhadap kompresi JPEG di berbagai Quality Factor.
-Semua implementasi dari scratch, tanpa library watermarking eksternal.
-"""
-
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
