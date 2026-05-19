@@ -7,7 +7,7 @@
 
 ---
 Laporan selengkapnya terkait tugas watermarking ada pada tautan berikut : https://docs.google.com/document/d/19VnHOAZu7_Ed3mELmY4wtraVQvC-xL7jVeAZnjvBx2s/edit?usp=sharing 
----
+
 
 ## Deskripsi Project
 
