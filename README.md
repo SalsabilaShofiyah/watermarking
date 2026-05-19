@@ -17,7 +17,7 @@ Watermarking adalah teknik menyisipkan informasi tersembunyi ke dalam gambar tan
 ### 1. Flowchart Cara Kerja Kedua Teknik
 
 <!-- Upload flowchart ke repo lalu ganti path di bawah ini -->
-![Flowchart Alur Kerja Watermarking](result/flowchart.png)
+![Flowchart](https://github.com/user-attachments/assets/a4c20748-9db6-467e-a0ec-e1093fd98586)
 
 > Keterangan: Flowchart menunjukkan alur kerja metode LSB dan DCT secara paralel, mulai dari resize foto, pembuatan watermark biner, proses embed, kompresi JPEG, ekstraksi, hingga evaluasi metrik BER, NC, dan PSNR.
 
