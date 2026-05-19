@@ -1,10 +1,12 @@
-# Digital Watermarking II2240 Sistem Multimedia
+# Tugas Watermarking II2240 Sistem Multimedia
 
 **Nama:** Salsabila Shofiyah  
 **NIM:** 18224088  
 **Kelas:** K-02  
 **Mata Kuliah:** II2240 Sistem Multimedia
 
+---
+Laporan selengkapnya terkait tugas watermarking ada pada tautan berikut : https://docs.google.com/document/d/19VnHOAZu7_Ed3mELmY4wtraVQvC-xL7jVeAZnjvBx2s/edit?usp=sharing 
 ---
 
 ## Deskripsi Project
